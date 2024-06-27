@@ -1,7 +1,16 @@
-# Byte-compiled / optimized / DLL files
+# Ignore compiled Python bytecode files
+*.pyc
+
+# Ignore Python cache directories
 __pycache__/
-*.py[cod]
-*$py.class
+
+# Ignore environment-specific settings
+.env
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-*
 
 # C extensions
 *.so
