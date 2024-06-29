@@ -1,5 +1,6 @@
 # Python 100 Days of Code
 Projects created during my 100 Days of Code: Python
+(N.B. Replit project require a free account to run the program, but no account is required to view source code.)
 
 1. _Just basic Python syntax, I'm not even gonna..._
 2. [Tip Calculator](https://replit.com/@dorole1/tip-calculator#main.py) (redirect to Replit)
