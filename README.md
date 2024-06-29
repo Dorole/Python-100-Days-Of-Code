@@ -17,3 +17,4 @@ Projects created during my 100 Days of Code: Python
 14. [Higher-Lower](https://replit.com/@dorole1/higher-lower) (redirect to Replit)
 15. [Coffee Machine](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2015_Coffee%20Machine)
 16. _Overview of OOP in Python. No new project._
+17. [Trivia Quiz (OOP)](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2017_Trivia%20Quiz)
