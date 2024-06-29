@@ -15,4 +15,4 @@ Coffee Machine is a simple program that:
 8. the user can enter "report" to see how many ingredients and money the machine has instead of choosing from the menu
 
 
-Run the program [here](https://trinket.io/python/96c53e7781?outputOnly=true&runOption=run&showInstructions=true)(redirect to Trinket).
+Run the program [here](https://trinket.io/python/96c53e7781?outputOnly=true&runOption=run&showInstructions=true) (redirect to Trinket).
