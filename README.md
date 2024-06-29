@@ -1,5 +1,5 @@
 # Python 100 Days of Code
-Projects created during my 100 Days of Code: Python
+Projects created during my 100 Days of Code: Python<br>
 (N.B. Replit project require a free account to run the program, but no account is required to view source code.)
 
 1. _Just basic Python syntax, I'm not even gonna..._
