@@ -21,5 +21,5 @@ Projects created during my 100 Days of Code: Python<br>
 17. [Trivia Quiz (OOP)](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2017_Trivia%20Quiz)
 18. [Turtle Projects](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2018_Turtle%20Projects)
 19. [Turtle Games](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2019_Turtle%20Games)
-20. The Snake Game pt. 1
-21. The Snake Game pt. 2
+20. [The Snake Game pt. 1](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2020_Day%2021_Snake)
+21. [The Snake Game pt. 2](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2020_Day%2021_Snake)
