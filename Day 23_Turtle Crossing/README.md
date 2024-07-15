@@ -8,4 +8,4 @@ The player can only move upwards (with W or Up Arrow).<br>
 Complete three levels to clear the game.
 
 Download the project and run _TurtleCrossing_ to try it out.<br>
-To restart, exit the window and run the .exe file again. If you exit before either a game-over or a game-cleared flag occurs, an error window will pop up - ignore and close it.
+To restart, exit the window and run the .exe file again. Exit by pressing the Escape key or the close button.

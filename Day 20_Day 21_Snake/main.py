@@ -1,4 +1,5 @@
 import time
+import turtle
 from window import Window
 from snake import Snake
 from food import Food
@@ -6,6 +7,7 @@ from scoreboard import Scoreboard
 
 window = Window()
 screen = window.get_screen()
+root = screen.getcanvas().winfo_toplevel()
 snake = Snake()
 food = Food(screen)
 scoreboard = Scoreboard(screen)
@@ -49,10 +51,18 @@ def check_speed_increase():
 
 def check_game_over():
     if wall_collision() or snake.collision_self():
-        scoreboard.game_over()
+        scoreboard.reset_scoreboard()
+        snake.reset_snake()
         return True
-    else:
-        return False
+    return False
+
+
+def on_close():
+    global play
+    play = False
+
+
+root.protocol("WM_DELETE_WINDOW", on_close)
 
 
 # ************* GAME LOOP *************
@@ -63,7 +73,8 @@ while play:
     snake.move()
     check_food_collection()
     if check_game_over():
-        play = False
+        time.sleep(0.5)
+    if not play:
+        break
 
-
-screen.exitonclick()
+turtle.bye()

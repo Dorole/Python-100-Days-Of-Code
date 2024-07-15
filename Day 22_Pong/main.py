@@ -1,11 +1,13 @@
 import window
 import time
+import turtle
 from paddle import Paddle
 from ball import Ball
 from scoreboard import Scoreboard
 
 window_o = window.Window()
 screen = window_o.screen
+root = screen.getcanvas().winfo_toplevel()
 
 paddle_start_x = (window.SCREEN_WIDTH/2) - window.PADDLE_OFFSET
 right_paddle = Paddle(start_x=paddle_start_x, window=window_o)
@@ -20,16 +22,16 @@ screen.onkeypress(fun=left_paddle.move_down, key="s")
 
 scoreboard = Scoreboard()
 
-play = True
 
-
-def debug_exit():
+def on_close():
     global play
     play = False
 
 
-screen.onkeypress(fun=debug_exit, key="Escape")
+screen.onkeypress(fun=on_close, key="Escape")
+root.protocol("WM_DELETE_WINDOW", on_close)
 
+play = True
 while play:
     time.sleep(ball.move_speed)
     screen.update()
@@ -59,5 +61,7 @@ while play:
         screen.update()
         play = False
 
+    if not play:
+        break
 
-screen.exitonclick()
+turtle.bye()

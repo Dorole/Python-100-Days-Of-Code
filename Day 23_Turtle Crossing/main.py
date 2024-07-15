@@ -5,11 +5,13 @@ from level_manager import LevelManager
 from countdown import Countdown
 from message import Message
 import time
+import turtle
 
 POS_OFFSET = 20
 
 display = Display()
 screen = display.screen
+root = screen.getcanvas().winfo_toplevel()
 car_manager = CarManager()
 level_manager = LevelManager()
 player = Player(display.borders["bottom"] + POS_OFFSET)
@@ -32,6 +34,14 @@ def game_clear():
     player.reset_player()
     message.game_end()
 
+
+def on_close():
+    global play
+    play = False
+
+
+root.protocol("WM_DELETE_WINDOW", on_close)
+screen.onkey(fun=on_close, key="Escape")
 
 play = True
 screen.update()
@@ -62,5 +72,8 @@ while play:
         else:
             next_level()
 
-screen.exitonclick()
+    if not play:
+        break
+
+turtle.bye()
 
