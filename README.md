@@ -19,9 +19,10 @@ Projects created during my 100 Days of Code: Python<br>
 15. [Coffee Machine](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2015_Coffee%20Machine)
 16. [Coffee Machine (OOP)](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2016_Coffee%20Machine%20OOP)
 17. [Trivia Quiz (OOP)](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2017_Trivia%20Quiz)
-18. [Turtle Projects](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2018_Turtle%20Projects)
-19. [Turtle Games](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2019_Turtle%20Games)
-20. [The Snake Game pt. 1](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2020_Day%2021_Snake)
-21. [The Snake Game pt. 2](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2020_Day%2021_Snake)
-22. [Pong](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2022_Pong)
-23. [Turtle Crossing](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2023_Turtle%20Crossing)
+18. [Turtle Projects](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2018_Turtle%20Projects) - Turtle Module
+19. [Turtle Games](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2019_Turtle%20Games) - Turtle Module
+20. [The Snake Game pt. 1](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2020_Day%2021_Snake) - Turtle Module
+21. [The Snake Game pt. 2](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2020_Day%2021_Snake) - Turtle Module
+22. [Pong](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2022_Pong) - Turtle Module
+23. [Turtle Crossing](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2023_Turtle%20Crossing) - Turtle Module
+24. [Mail Merge](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2024_Mail%20Merge) - Working with files
