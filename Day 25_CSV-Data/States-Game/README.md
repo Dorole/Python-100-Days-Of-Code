@@ -8,3 +8,5 @@ The purpose of this exercise was to apply the knowledge about reading from and w
 The program also uses the Turtle library to display the image, text and receive user input.
 
 To play, download the project (or the States-Game folder only) and run the <b>__US-States-Game__.exe</b> file.
+
+![image](https://github.com/user-attachments/assets/be2f4630-4cef-4939-8842-ea7aea16e231)
