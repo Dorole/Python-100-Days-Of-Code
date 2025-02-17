@@ -26,4 +26,6 @@ Projects created during my 100 Days of Code: Python<br>
 22. [Pong](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2022_Pong) - Turtle Module
 23. [Turtle Crossing](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2023_Turtle%20Crossing) - Turtle Module
 24. [Mail Merge](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2024_Mail%20Merge) - Working with files
-25. [Squirrel Census](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2025_CSV-Data/Squirrel-Census) - Working with .csv files and Pandas lib
+25. [Squirrel Census](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2025_CSV-Data/Squirrel-Census) - Pandas library and .csv files
+25. [U.S. States Game](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2025_CSV-Data/States-Game) - Pandas library
+26. NATO Phonetic Alphabet - Dictionary and List Comprehension
