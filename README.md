@@ -30,3 +30,4 @@ Projects created during my 100 Days of Code: Python<br>
 25. [U.S. States Game](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day%2025_CSV-Data/States-Game) - Pandas library
 26. [NATO Phonetic Alphabet](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day-26_NATO-Alphabet) - Dictionary and List Comprehension
 27. [Unit Converter](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day-27-Unit-Converter) - GUI with Tkinter 
+28. Pomodoro Timer - Tkinter - Canvas and after()
