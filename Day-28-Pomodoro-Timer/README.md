@@ -17,3 +17,8 @@ a pause functionality, created a simple event system and learned how to use enum
 2. Tick sound: Soft Short App Melody by CogFireStudios -- https://freesound.org/s/619837/ -- License: Creative Commons 0
 3. Session End sound: select2.wav by Krokulator -- https://freesound.org/s/654411/ -- License: Creative Commons 0
 4. Cycle End sound: Congrats! 1 by nomiqbomi -- https://freesound.org/s/578571/ -- License: Creative Commons 0
+
+------
+
+<img src=https://github.com/user-attachments/assets/8808fed7-a5b1-46fc-98f5-4bbbb90e9220 width="450" height="450"/>
+<img src=https://github.com/user-attachments/assets/3e3dc706-3782-4da3-90be-7ff624b924c5 width="450" height="450"/>
