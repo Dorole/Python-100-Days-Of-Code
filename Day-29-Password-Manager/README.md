@@ -8,3 +8,5 @@ The logic for random password generation is re-worked from [Day 5](https://repli
 
 This is a wrap-up project on Tkinter. 
 I plan to add some sort of encryption so a bit more work will be done here.
+
+<img src="https://github.com/user-attachments/assets/63742c42-08f1-40a6-b753-1f017e75ef23"/>
