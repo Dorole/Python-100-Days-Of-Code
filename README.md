@@ -31,5 +31,5 @@ Projects created during my 100 Days of Code: Python<br>
 26. [NATO Phonetic Alphabet](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day-26_NATO-Alphabet) - Dictionary and List Comprehension
 27. [Unit Converter](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day-27-Unit-Converter) - GUI with Tkinter 
 28. [Pomodoro Timer](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day-28-Pomodoro-Timer)- Tkinter - Canvas and after(); sounds (pygame), enums, lambda 
-29. Password Manager - Tkinter - Entries and MessageBoxes; modules: random, pyperclip
+29. [Password Manager](https://github.com/Dorole/Python-100-Days-Of-Code/tree/main/Day-29-Password-Manager) - Tkinter - Entries and MessageBoxes; modules: random, pyperclip
 
